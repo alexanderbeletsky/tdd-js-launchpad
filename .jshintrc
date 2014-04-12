@@ -28,7 +28,8 @@
 		"FB",
 		"_",
 		"__dirname",
-		"Buffer"
+		"Buffer",
+		"$"
 	],
 
 	"asi" : false,
