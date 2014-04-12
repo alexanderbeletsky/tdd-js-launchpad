@@ -1,0 +1,15 @@
+{
+  "name": "tdd-js-launchpad",
+  "version": "0.0.1",
+  "description": "Launchpad for TDD in JavaScript",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "alexander.beletsky@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jasmine": "~0.6.3"
+  }
+}
