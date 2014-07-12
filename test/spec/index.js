@@ -11,7 +11,7 @@ describe('Temperature widget spec', function () {
 	});
 
 	beforeEach(function () {
-		$container = $('<div class="test-container">aaaaaaa</div>');
+		$container = $('<div class="test-container"></div>');
 		$container.appendTo('body');
 	});
 
