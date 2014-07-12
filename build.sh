@@ -1,4 +1,4 @@
 #/env/sh
 cd test
 npm install
-npm test
+npm run-script test-ci
