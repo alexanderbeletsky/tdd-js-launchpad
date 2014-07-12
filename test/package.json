@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "devDependencies": {
+    "karma": "~0.10.0"
+  },
+  "scripts": {
+    "test-dev": "karma start config/karma-dev.conf.js",
+    "test-ci": "karma start config/karma-ci.conf.js"
+  },
+  "dependencies": {}
+}
